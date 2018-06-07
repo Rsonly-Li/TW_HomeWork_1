@@ -40,6 +40,7 @@ public class HomeWork {
                 first=false;
             }else{
                 result.append(",");
+
             }
             result.append(string);
         }
